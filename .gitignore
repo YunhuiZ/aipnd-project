@@ -130,3 +130,6 @@ venv/
 # Temporary files
 *.tmp
 *.temp
+
+# jpg files
+*.jpg
